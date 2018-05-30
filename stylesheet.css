@@ -1,0 +1,162 @@
+#Header{
+	width: 74%;
+	background-color: #303030;
+	border-bottom: 0.5px solid #e5e5e5;
+}
+#Footer{
+	width: 74%;
+	position: relative;
+}
+#Footer li{
+	list-style-type: none;
+}
+#footer_logo{
+	width: 100%;
+}
+#copyright{
+	position: absolute;
+	color: #EEEEEE;
+	font-size: 10px;
+	top: 5px;
+    left: 40%;
+    font-family: Georgia,'Times New Roman',Times, serif;
+}
+.page{
+	font-family: Georgia,'Times New Roman',Times, serif;
+	width: 74%%;
+}
+.product li{
+	list-style-type: none;
+	display: inline-block;
+}
+.product{
+	position: relative;
+	width: 100%;
+}
+#product_header{
+	position: absolute;
+    left: 8%;
+    font-family: Georgia,'Times New Roman',Times, serif;
+	color: #FFFF00;
+}
+#product_debscribe{
+	width: 250px;
+	position: absolute;
+	font-size: 11px;
+	color: #ffffff;
+	left: 8%;
+	top: 50px;
+	height: 100px;
+}
+#intro_image{
+	width: 74%;
+}
+.image_content{
+	position: relative;
+	width: 74%;
+	height: 120px;
+	background-color: #303030;
+	border-bottom: 0.5px solid #e5e5e5;
+
+}
+#point{
+	position: absolute;
+	left: 10%;
+	top: 5px;
+}
+#giant{
+	position: absolute;
+	left: 32%;
+	top: 5px;
+}
+#mar{
+	position: absolute;
+	left: 54%;
+	top: 5px;
+}
+#vivio{
+	position: absolute;
+	left: 76%;
+	top: 5px;
+}
+#no1{
+	position: absolute;
+	top: 5px;
+	left: 28%;
+}
+#no2{
+	position: absolute;
+	top: 5px;
+	left: 50%;
+}
+#no3{
+	position: absolute;
+	top: 5px;
+	left: 72%;
+}
+#no4{
+	position: absolute;
+	top: 5px;
+	left: 94%;
+}
+.last_content li{
+	list-style-type: none;
+}
+.last_content{
+	position: relative;
+	width: 74%;
+	height: 270px;
+	background-color: #303030;
+	border-bottom: 0.5px solid #e5e5e5;
+}
+#email{
+	position: absolute;
+	top: 5px;
+    left: 10%;
+    font-family: Georgia,'Times New Roman',Times, serif;
+	color: #FFFF00;
+}
+#yahoo_MSN{
+	position: absolute;
+    left: 60%;
+    top: 5px;
+    width: 300px;
+    font-family: Georgia,'Times New Roman',Times, serif;
+	color: #FFFF00;
+}
+#content_email{
+	position: absolute;
+	left: 10%;
+	top: 25px;
+	width: 300px;
+	font-size: 12px;
+	font-family: Georgia,'Times New Roman',Times, serif;
+	color: #ffffff;
+	z-index: 2
+}
+#content_yahoo{
+	position: absolute;
+	left: 60%;
+	font-size: 12px;
+	top: 80px;
+	width: 300px;
+	font-family: Georgia,'Times New Roman',Times, serif;
+	color: #ffffff;
+	z-index: 2;
+}
+#design{
+	position: absolute;
+	left: 27%;
+	top: 120px;
+	height: 100px;
+	width: 100px;
+	z-index: 1;
+}
+#marketing{
+	position: absolute;
+	left: 60%;
+	top: 20px;
+	height: 120px;
+	width: 120px;
+	z-index: 1;
+}
